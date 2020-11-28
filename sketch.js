@@ -60,7 +60,7 @@ function setup() {
 function draw() {
   //rectMode(CENTER);
   if(backgroundImg)
-  background(backgroundImg);
+	  background(backgroundImg);
  // background(210,210,210);
   textSize(30);
   fill("red");
